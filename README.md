@@ -1,2 +1,2 @@
-# ML---Class-Imbalance
-Application of Class Imbalance Techniques 
+# ML--- Cost Sensitive Learning and Class Imbalance
+Application of Coste Sensitive Learning and Class Imbalance Techniques 
