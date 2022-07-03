@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1DmCEvMGnMbe_yIZtZtH6KdN2V6jwfgGE
 """
 
+#COST SENSITIVE LEARNING - SAMPLING
+
 #rebalancing
 !pip install imbalanced-learn
 
