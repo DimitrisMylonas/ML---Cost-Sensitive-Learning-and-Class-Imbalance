@@ -7,6 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1G1DrPjnUFJWf7iRvbhnjEKDuLZORJ0_8
 """
 
+#COST SENSITIVE LEARNING - WEIGHTING
+
 import pandas as pd
 import numpy as np
 import csv
